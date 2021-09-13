@@ -33,14 +33,11 @@ html {
 
 body {
     background-color: var(--main-bg);
-    display: grid;
-    grid-template-rows: 100vh;
-    grid-template-columns: 95vw;
+    display: flex;
+    min-height: 100vh;
 }
 
 .main {
-    justify-self: center;
-    align-self: center;
     max-width: 90%;
     border-radius: 8px;
     background-color: var(--card-bg);
