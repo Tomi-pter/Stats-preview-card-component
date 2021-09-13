@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LexendDecaRegular';
+    src: url('fonts/LexendDecaRegular.eot');
+    src: url('fonts/LexendDecaRegular.eot') format('embedded-opentype'),
+         url('fonts/LexendDecaRegular.woff2') format('woff2'),
+         url('fonts/LexendDecaRegular.woff') format('woff'),
+         url('fonts/LexendDecaRegular.ttf') format('truetype'),
+         url('fonts/LexendDecaRegular.svg#LexendDecaRegular') format('svg');
+}
